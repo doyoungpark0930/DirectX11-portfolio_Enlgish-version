@@ -67,7 +67,7 @@ It implements a wide range of real-time rendering techniques, shader programming
 
 - **Understand and apply the principle of Deferred Shading**
 
-- **Port the project to DirectX 12**
+- **Port the project to Vulkan**
 
 ---
 
