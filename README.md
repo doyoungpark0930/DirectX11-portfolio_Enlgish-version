@@ -1,17 +1,16 @@
-# 🔥 DirectX 11 Graphics Portfolio - Crimson Desert Trailer Recreation
+# 🔥 DirectX 11 Graphics Portfolio
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/662b69d9-9f4e-419c-8732-aa3b77327447" width="800" />
 </p>
 
-🎞️ [Watch Video (YouTube)](https://www.youtube.com/watch?v=e3Tg7toK84Y)  
 📘 [Personal Study Blog (Tistory, Korean)](https://pdy0930.tistory.com/)
 
 ---
 
 ## 🧪 Project Overview
 
-This portfolio is a DirectX 11-based graphics demo that recreates a scene from the **Crimson Desert** trailer by Pearl Abyss.  
+This portfolio is a DirectX 11-based graphics demo.
 It implements a wide range of real-time rendering techniques, shader programming, volume rendering, tessellation, and other fundamental graphics technologies.
 
 ---
@@ -73,20 +72,17 @@ It implements a wide range of real-time rendering techniques, shader programming
 
 ## 📚 References and Resources
 
-### 1. 👨‍🏫 Lectures and Base Code
-- [Honglab Graphics Lectures (Korean)](https://www.honglab.ai/collections)
-
-### 2. 📘 LearnOpenGL References
+### 1. 📘 LearnOpenGL References
 - [PBR Theory](https://learnopengl.com/PBR/Theory)  
 - [Gamma Correction](https://learnopengl.com/Advanced-Lighting/Gamma-Correction)  
 - [Peter Panning Artifact Fix](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
 
-### 3. 🌩️ ShaderToy Example Code
+### 2. 🌩️ ShaderToy Example Code
 - [Perlin Noise](https://www.shadertoy.com/view/3dVXDc)  
 - [Volumetric Clouds](https://www.shadertoy.com/view/4ttSWf)  
 - [Cook-Torrance + Oren-Nayar PBR](https://www.shadertoy.com/view/MsSczh)
 
-### 4. 🧬 Other Resources
+### 3. 🧬 Other Resources
 - [Wave + Fractal Brownian Motion Theory](https://thebookofshaders.com/13/?lan=kr)  
 - [C++ Perlin Noise Open Source](https://github.com/Reputeless/PerlinNoise)  
 - [PBR Shader Code](https://github.com/Nadrin/PBR)  
